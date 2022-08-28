@@ -1,0 +1,4 @@
+html, body { height: 100%; width: 100% }
+.b { color: white !important }
+::-moz-selection { color: black !important; background: #8AC6F2 !important; }
+::selection { color: black !important; background: #8AC6F2 !important; }
